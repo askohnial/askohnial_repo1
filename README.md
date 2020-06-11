@@ -1,5 +1,2 @@
 # askohnial_repo1
-cat /jenkins/build-first/a
-cat /jenkins/build-first/b
-echo "this is third item which we are testing" >> /jenkins/build-first/c
-cat /jenkins/build-first/c
+now is it working
